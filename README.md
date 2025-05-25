@@ -13,3 +13,22 @@ PyQt5: Grafik arayüz tasarımı için
 
 NumPy: Sayısal işlemler için
 
+![giris](https://github.com/user-attachments/assets/d78dcc5b-b7e9-46c4-9020-9b6b23356934)
+
+İstenilen verileri aşağıdaki gibi girip sonucu göreceğiz.
+
+Sıcaklık=5
+
+Nem=19
+
+CO2=467
+
+Işık=172
+
+Kişi Sayısı=4
+
+![sonuc](https://github.com/user-attachments/assets/c32c1a53-791d-43a2-9482-b7524a582d24)
+
+
+
+
