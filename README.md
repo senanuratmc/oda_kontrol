@@ -29,6 +29,14 @@ Kişi Sayısı=4
 
 ![sonuc](https://github.com/user-attachments/assets/c32c1a53-791d-43a2-9482-b7524a582d24)
 
+Sonuç olarak;
+
+Isıtıcı Gücü=%50.0
+
+Havalandırma seviyesi= %50.0  
+
+olarak bulunmuştur.
+
 
 
 
